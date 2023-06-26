@@ -1,0 +1,30 @@
+.game-library {
+  text-align: center;
+}
+
+.game-buttons {
+  margin-bottom: 20px;
+}
+
+.game-buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.game-buttons button:hover {
+  background-color: #e0e0e0;
+}
+
+.game-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.game-list li {
+  margin-bottom: 10px;
+}
